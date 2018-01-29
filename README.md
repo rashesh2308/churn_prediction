@@ -61,7 +61,7 @@ Data of ServicedOptedFor :
 	
 	•	TypeOfService : Service signed for    
 	
-	•	SeviceDetails : 
+	•	ServiceDetails : did the customer opted for that particular service
 
 
 Churn Data : 	
