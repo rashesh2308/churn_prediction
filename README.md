@@ -24,13 +24,13 @@ Demographics Data :
 	
 	• 	Country : Country. ( For this attribute, missing values   are denoted as “?”)
 	
-	•	State : State ( For this attribute, missing values are 					denoted as “?”)
+	•	State : State ( For this attribute, missing values are denoted as “?”)
 	
 	•	Retired : Whether retired
 	
-	•	HasPartner : Demographic information - whether the customer has partner 		( 1-Yes; 2-No)
+	•	HasPartner : Demographic information - whether the customer has partner ( 1-Yes; 2-No)
 	
-	•	HasDependents : Demographic information - whether the customer has 		dependents ( 1-Yes; 2-No)
+	•	HasDependents : Demographic information - whether the customer has dependents ( 1-Yes; 2-No)
 	
 	•	Education : Education qualification
 	
@@ -43,8 +43,8 @@ Account Information :
 	•	DOC : Date of data collection
 	•	TotalCharges : Customer account information( For this attribute,missing values are denoted as “MISSINGVAL” also)
 	•	DOE : Date of entry as customer
-	•	ElectronicBilling : Customer account information - whether electronic 			billing
-	•	ContractType : Contract type ( For this attribute, 	missing values are 			denoted as “NA”)
+	•	ElectronicBilling : Customer account information - whether electronic billing
+	•	ContractType : Contract type ( For this attribute, missing values are denoted as “NA”)
 	•	PaymentMethod : payment method
 
 Data of ServicedOptedFor : 
