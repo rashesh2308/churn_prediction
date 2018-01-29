@@ -39,19 +39,30 @@ Demographics Data :
 
 Account Information :
 	•	CustomerID : CustomerID
+	
  	• 	BaseCharges : Customer account information (Charges for Base plan)
+	
 	•	DOC : Date of data collection
+	
 	•	TotalCharges : Customer account information( For this attribute,missing values are denoted as “MISSINGVAL” also)
+	
 	•	DOE : Date of entry as customer
+	
 	•	ElectronicBilling : Customer account information - whether electronic billing
+	
 	•	ContractType : Contract type ( For this attribute, missing values are denoted as “NA”)
+	
 	•	PaymentMethod : payment method
 
 Data of ServicedOptedFor : 
 	•	CustomerID : CustomerID
+	
 	•	TypeOfService : Service signed for    
+	
 	•	SeviceDetails : 
+
 
 Churn Data : 	
 	•	CustomerID : Customer ID
+	
 	•	Churn : Whether the customer churns  (Target)
