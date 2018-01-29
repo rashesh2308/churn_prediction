@@ -38,6 +38,7 @@ Demographics Data :
 
 
 Account Information :
+
 	•	CustomerID : CustomerID
 	
  	• 	BaseCharges : Customer account information (Charges for Base plan)
@@ -55,6 +56,7 @@ Account Information :
 	•	PaymentMethod : payment method
 
 Data of ServicedOptedFor : 
+
 	•	CustomerID : CustomerID
 	
 	•	TypeOfService : Service signed for    
@@ -63,6 +65,7 @@ Data of ServicedOptedFor :
 
 
 Churn Data : 	
+
 	•	CustomerID : Customer ID
 	
 	•	Churn : Whether the customer churns  (Target)
